@@ -4,11 +4,13 @@ I'm a **Software Engineering student** at **UDLA** with a passion for programmin
 
 ### 🔭 What I'm working on:
 - Learning **C#** and exploring **.NET development**.
+- Learning **Java** and expanding my knowledge in object-oriented programming.
 - Setting up **Linux** on an old laptop to experiment with different distros.
 - Improving my coding habits and project organization.
 
 ### 🌱 What I'm learning:
 - **C# & .NET** for application development.
+- **Java** for backend development and application design.
 - **Linux** installation and customization.
 - **Software development best practices**.
 
