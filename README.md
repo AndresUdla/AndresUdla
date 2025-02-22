@@ -18,7 +18,7 @@ I'm a **Software Engineering student** at **UDLA** with a passion for programmin
 - Exploring **new programming languages and frameworks**.
 
 ### 📫 How to reach me:
-- **Email**: josue.mullo@udla.edu.ec or josuemullo10@hotmail.es
+- **Email**: josue.mullo@udla.edu.ec or josuemullo10@hotmail.com
 - **GitHub**: You're already here! 😃
 
 ⚡ Fun fact: I recently did a stream with **Volibear** in LoL and had a small but awesome audience! 🐻⚡
